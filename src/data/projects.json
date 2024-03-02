@@ -1,0 +1,26 @@
+[
+  {
+    "title": "3D Portofolio website",
+    "imageSrc": "projects/project.png",
+    "description": "This is my project about a 3D website portfolio. ",
+    "skills": ["React", "ThreeJs", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Animelist website",
+    "imageSrc": "projects/project.png",
+    "description": "This is an animelist website project, a website-based application.",
+    "skills": ["React", "Node", "NextJs"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Link tree ",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

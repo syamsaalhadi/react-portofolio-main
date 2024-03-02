@@ -1,0 +1,29 @@
+[
+  {
+    "role": "PHP Developer",
+    "organisation": "Pt Yafira Digital Technology",
+    "startDate": "Nov, 2021",
+    "endDate": "Dec, 2022",
+    "experiences": ["Learning about PHP development", "create a database with PHP"],
+    "imageSrc": "history/yafira.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Fiverr",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Create responsive website", "Building custom website"],
+    "imageSrc": "history/fiverr.png"
+  },
+  {
+    "role": "Designer",
+    "organisation": "Fiverr",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Create logo design",
+      "Create homepage website design"
+    ],
+    "imageSrc": "history/fiverr.png"
+  }
+]
